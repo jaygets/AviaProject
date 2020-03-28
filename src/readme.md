@@ -1,2 +1,2 @@
 # Исходный код проекта
-С# Session2_Tankaeva, Amonic.exe
+С#  - Avia_C.zip - первая и вторая сессии проекта
